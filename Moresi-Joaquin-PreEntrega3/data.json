@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "nombre": "Pelota de Fútbol",
+        "precio": 5000,
+        "imagen": "img/pelotaFut.webp" 
+    },
+    {
+        "id": 2,
+        "nombre": "Raqueta de Tenis",
+        "precio": 8000,
+        "imagen": "img/tenis.webp"
+    },
+    {
+        "id": 3,
+        "nombre": "Guantes de Boxeo",
+        "precio": 4500,
+        "imagen": "img/boxeo.jpg"
+    }
+]
